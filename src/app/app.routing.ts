@@ -22,7 +22,7 @@ export const routes: Routes = [
         loadChildren: './dashboard/dashboard.module#DashboardModule'
       },
     ]
-  }
+  },
 ];
 
 @NgModule({
